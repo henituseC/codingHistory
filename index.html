@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coding History</title>
+    <meta name="description" content="Coding History: An Interactive Terminal Website for Philippine Historical Learning!">
+    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
+    
+  </head>
+  
+  
+  
+  <body>
+    <div class="crt-overlay"></div>
+    
+    
+    <!-- =======================================================================
+                         OS DIRECTORY & CHANGELOG PANEL
+     ======================================================================= -->
+    
+    <!--   Header thing   -->
+    <div class="sidebar">
+      <div class="dir-header-dark">
+        Welcome [GUEST]!<br>
+        C:\codingHiistory\users\guest
+      </div>
+      
+      <!--   Divider   -->
+      <div class="divider">-----------------------------------</div>
+      <div class="dir-header-green">GREETINGS [GUEST]! WELCOME TO CODING HISTORY!</div>
+      <div class="divider">-----------------------------------</div>
+          
+      <!--   Directory   -->    
+<div class="tree-root">CODING HISTORY
+  <span onclick="closeView()">├ MAIN</span>
+  <span onclick="openView('about')">├ ABOUT</span>
+    <span onclick="openView('aboutsite')">├ ABOUT SITE</span>
+    <span onclick="openView('links')">├ LINKS</span>
+  <span onclick="openView('history')">├ HISTORY</span>
+    <span onclick="openView('precolonization')">├ PRE-COLONIZATION</span>
+    <span onclick="openView('spanishoccupation')">├ SPANISH OCCUPATION</span>
+    <span onclick="openView('americanoccupation')">├ AMERICAN OCCUPATION</span>
+    <span onclick="openView('japaneseoccupation')">├ JAPANESE OCCUPATION</span>
+    <span onclick="openView('postcolonization')">├ POST-COLONIZATION</span>
+  <span onclick="openView('media')">├ MEDIA</span>
+    <span onclick="openView('literature')">├ LITERATURE</span>
+    <span onclick="openView('movies')">├ MOVIES</span>
+    <span onclick="openView('videos')">├ VIDEOS</span>
+       
+      </div>
+  
+      <div class="divider">-----------------------------------</div>
+          
+      <!-- Sidebar Changelog Box Container -->
+      <div style="border: 1px solid #005500; 
+                  padding: 12px; 
+                  background: rgba(0, 255, 0, 0.01); 
+                  font-size: 0.85em; 
+                  margin-top: 20px; 
+                  line-height: 1.4;
+                  height: 200px;
+                  overflow-y: auto;
+                  box-sizing: border-box;">
+      
+        <!--   Changelog   -->
+        <div class="c-cmd" style="border-bottom: 1px dashed #005500; padding-bottom: 3px; margin-bottom: 8px; font-weight: bold;">
+          [ CHANGELOG / WHAT'S NEW? ]
+        </div>
+              
+        <span class="c-desc">[2026-07-16]</span> - Added ABOUT SITE & MEDIA content.<br>
+        <span class="c-desc">[2026-07-16]</span> - Barebones site prototype deployment.
+              
+      </div>
+    </div>
+       
+    
+
+    <!-- =======================================================================
+                                  MAIN CONSOLE
+     ======================================================================= -->
+     
+    <div class="console-panel" id="main-panel">
+        
+      <!-- STANDARD OPERATING TERMINAL CONSOLE LAYER -->
+      <div id="terminal-view">
+        <div>coding history.</div>
+        <div>======================================================================================================================================================</div>
+
+        <pre class="ascii-art">
+                   .___.__                 .__    .__          __                       
+    ____  ____   __| _/|__| ____    ____   |  |__ |__| _______/  |_  ___________ ___.__.
+  _/ ___\/  _ \ / __ | |  |/    \  / ___\  |  |  \|  |/  ___/\   __\/  _ \_  __ <   |  |
+  \  \__(  <_> ) /_/ | |  |   |  \/ /_/  > |   Y  \  |\___ \  |  | (  <_> )  | \/\___  |
+   \___  >____/\____ | |__|___|  /\___  /  |___|  /__/____  > |__|  \____/|__|   / ____|
+       \/           \/         \//_____/        \/        \/                     \/       
+        </pre>
+        
+        <div>======================================================================================================================================================</div>
+        
+        <div id="history" style="text-align: left; display: block;">
+<span class="c-desc" style="text-align: left">Welcome to Coding History: An Interactive Terminal Website for Philippine Historical Learning!<br>For a list of available commands, type '<strong>help</strong>' or you can use the <strong>directory on the left</strong>.</span>
+        </div>
+        
+        <div class="input-line">
+          <span class="prompt">guest@codingHistory.neocities:~$</span>
+          <input type="text" id="user-input" autofocus autocomplete="off" spellcheck="false">
+        </div>
+      </div>
+
+      <div id="content-view">
+        <div class="display-header">
+          <span id="content-title">display / dnd</span>
+          <button class="close-btn" onclick="closeView()">[X]</button>
+        </div>
+              
+        <div>======================================================================================================================================================</div>
+              
+        <div id="content-body"></div>
+      </div>
+    </div>
+
+    <script src="/terminal.js"></script>
+     
+  </body>
+</html>

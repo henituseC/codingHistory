@@ -1,0 +1,204 @@
+<!-- =======================================================================
+                              Spanish Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Spanish Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/SPN-01-GomBurZa.jpg"
+            alt="GomBurZa (2023)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            GomBurZa (2023)
+        </div>
+    </div>
+
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/SPN-02-JoseRizal.jpg"
+            alt="José Rizal (1998)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            José Rizal (1998)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/SPN-03-Bonifacio.jpg"
+            alt="Bonifacio: Ang Unang Pangulo (2014)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Bonifacio: Ang Unang Pangulo (2014)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/SPN-04-HermanoPuli.jpg"
+            alt="Ang Hapis at Himagsik ni Hermano Puli (2016)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Ang Hapis at Himagsik ni Hermano Puli (2016)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/SPN-05-1898.jpg"
+            alt="1898, Our Last Men in the Philippines (2016)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            1898, Our Last Men in the Philippines (2016)
+        </div>
+    </div>    
+
+</div>
+
+
+
+<!-- =======================================================================
+                            American Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] American Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-01-HeneralLuna.jpg"
+            alt="Heneral Luna (2015)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Heneral Luna (2015)
+        </div>
+    </div>
+
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-02-Goyo.jpg"
+            alt="Goyo: Ang Unang Heneral (2018)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Goyo: Ang Unang Heneral (2018)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-03-Amigo.jpg"
+            alt="Amigo (2010)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Amigo (2010)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-04-Ganito.jpg"
+            alt="Ganito Kami Noon, Paano Kayo Ngayon? (1976)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Ganito Kami Noon, Paano Kayo Ngayon? (1976)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-05-Guerrilla.jpg"
+            alt="American Guerrilla in the Philippines (1950)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            American Guerrilla in the Philippines (1950)
+        </div>
+    </div>  
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-06-GreatRaid.jpg"
+            alt="The Great Raid (2005)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The Great Raid (2005)
+        </div>
+    </div>  
+
+</div>
+
+
+
+<!-- =======================================================================
+                            Japanese Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Japanese Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/JPN-01-OroPlata.jpg"
+            alt="Oro, Plata, Mata (1982)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Oro, Plata, Mata (1982)
+        </div>
+    </div>  
+
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/JPN-02-TatlongTaong.jpg"
+            alt="Tatlong Taong Walang Diyos (1976)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Tatlong Taong Walang Diyos (1976)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/JPN-03-Markova.jpg"
+            alt="Markova: Comfort Gay (2000)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Markova: Comfort Gay (2000)
+        </div>
+    </div>  
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/JPN-04-AishiteImasu.jpg"
+            alt="Aishite Imasu 1941: Mahal Kita (2004)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Aishite Imasu 1941: Mahal Kita (2004)
+        </div>
+    </div>  
+
+</div>

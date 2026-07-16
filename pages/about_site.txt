@@ -1,0 +1,131 @@
+<!-- =======================================================================
+                                ABOUT SITE
+     ======================================================================= -->
+
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] ABOUT SITE / PURPOSE
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        Welcome to <span class="c-cmd">CODING HISTORY</span>--an interactive educational retro-themed terminal website created as a project for <span class="c-cmd">Readings in Philippine History</span>.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        This website was created to explore how technology and education can work together to make historical learning more engaging, interactive, and accessible. Instead of presenting Philippine History as a collection of dates and names to memorize, <span class="c-cmd">CODING HISTORY</span> allows users to explore historical topics through a terminal-inspired interface.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        The project was developed in response to the growing need for meaningful and engaging educational resources. The gap in Philippine historical education has made it increasingly important for students to have access to materials that encourage historical understanding, critical thinking, and informed engagement with the past.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        Through its interactive format, <span class="c-cmd">CODING HISTORY</span> aims to make learning feel less like passively reading a textbook and more like actively exploring a system. Each module serves as an entry point into different periods and aspects of Philippine history.
+    </p>
+
+</div>
+
+
+
+<!-- =======================================================================
+                          THE TEAM BEHIND THE PROJECT
+     ======================================================================= -->
+ 
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] THE TEAM BEHIND THE PROJECT
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+  
+    <!-- Ame -->
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Amelia Ampil
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Hi! I'm Amelia Ampil. I am the leader and main coder of CODING HISTORY. I enjoy making art, model building, reading, and more. Thanks for stopping by! I hope you enjoy looking around.
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        &nbsp;(\(\  <br>
+        &nbsp;(._.) <br>
+             c(___) <br><br> 
+            
+        (<a href="https://asciiart.website/art/6300" target="_blank" class="c-cmd"; text-decoration: underline;">Credit for the bunny ASCII art here!</a>)
+      </p>
+      
+    </div>
+    
+    
+    
+    <!-- Regie -->
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Regie Contreras
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        
+      </p>
+    
+    </div>
+    
+    
+    
+    <!-- Zed -->
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Zedrik Pamintuan
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        
+      </p>
+    
+    </div>
+    
+    
+    
+    <!-- Justin Perez -->
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Justin Perez
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Hey all, Justin Perez. I'm the member responsible for the research on the American and Japanese Occupational eras on the history module. I've been a little bit of a history buff for a while and this was real fun to freshen up on, hope this shines some light on those times.
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Literacy upon ye.
+      </p>
+    
+    </div>
+  
+  
+ 
+  
+  
+  </div>
+
+
+</div>
+
+ 
+
+
+
+
+
+
+

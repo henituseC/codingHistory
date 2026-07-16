@@ -1,0 +1,171 @@
+<!-- =======================================================================
+                              Spanish Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Spanish Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-01-Noli.jpg"
+            alt="Noli Me Tángere (José Rizal)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Noli Me Tángere (José Rizal)
+        </div>
+    </div>
+
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-02-ElFili.jpg"
+            alt="El Filibusterismo (José Rizal)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            El Filibusterismo (José Rizal)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-03-RizaLife.jpg"
+            alt="Buhay at mga Sinulat ni Dr. José Rizal (Austin Coates)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Buhay at mga Sinulat ni Dr. José Rizal (Austin Coates)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-04-PropagandaMovement.jpg"
+            alt="The Propaganda Movement: 1880-1895 (John N. Schumacher)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The Propaganda Movement: 1880-1895 (John N. Schumacher)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-05-Sucesos.jpg"
+            alt="Sucesos de las Islas Filipinas (Antonio de Morga)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Sucesos de las Islas Filipinas (Antonio de Morga)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-06-Revolt.jpg"
+            alt="The Revolt of the Masses (Teodoro Agoncillo)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The Revolt of the Masses (Teodoro Agoncillo)
+        </div>
+    </div>
+
+</div>
+
+
+
+<!-- =======================================================================
+                            American Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] American Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/AM-01-AmOccupation.jpg"
+            alt="The American Occupation of the Philippines (James H. Blount)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The American Occupation of the Philippines (James H. Blount)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/AM-02-NativeSoil.jpg"
+            alt="His Native Soil (Juan C. Laya)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            His Native Soil (Juan C. Laya)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/AM-03-ManilaEspionage.jpg"
+            alt="The Manila Espionage (Claire Phillips)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The Manila Espionage (Claire Phillips)
+        </div>
+    </div>
+
+</div>
+
+
+
+<!-- =======================================================================
+                            Japanese Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Japanese Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/JPN-01-PolicyAndReaction.jpg"
+            alt="The Philippines under Japan: Occupation Policy and Reaction (E. Bruce Reynolds)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The Philippines under Japan: Occupation Policy and Reaction (E. Bruce Reynolds)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/JPN-02-CampaignsKnowledge.jpg"
+            alt="Campaigns of Knowledge: U.S. Pedagogies of Colonialism and Occupation in the Philippines and Japan (Malini Johar Schueller)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Campaigns of Knowledge: U.S. Pedagogies of Colonialism and Occupation in the Philippines and Japan (Malini Johar Schueller)
+        </div>
+    </div>
+    
+    <div class="item portrait">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/JPN-03-WarResistance.jpg"
+            alt="War and Resistance in the Philippines, 1942–1944 (James Kelly Morningstar)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            War and Resistance in the Philippines, 1942–1944 (James Kelly Morningstar)
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,149 @@
+<!-- =======================================================================
+                              Spanish Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Spanish Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-01.png"
+            alt="Kaagi: The Philippines and the First Circumnavigation (2021)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Kaagi: The Philippines and the First Circumnavigation (2021)
+        </div>
+    </div>    
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-02.png"
+            alt="The History of The Philippines Under The Spanish Empire (2024)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The History of The Philippines Under The Spanish Empire (2024)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-03.png"
+            alt="1565–1898: How Spain Controlled the Philippines for 333 Years (2025)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            1565–1898: How Spain Controlled the Philippines for 333 Years (2025)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-04.png"
+            alt="GOMBURZA (2023)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            GOMBURZA (2023)
+        </div>
+    </div>
+
+</div>
+
+
+
+<!-- =======================================================================
+                            American Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] American Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-01.png"
+            alt="The War Your American History Teachers Probably Didn't Tell You About (2023)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            The War Your American History Teachers Probably Didn't Tell You About (2023)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-02.png"
+            alt="How America Rigged Filipino Education (2025)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            How America Rigged Filipino Education (2025)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-03.png"
+            alt="How The US Stole The Philippines (2021)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            How The US Stole The Philippines (2021)
+        </div>
+    </div>
+    
+</div>
+
+
+
+<!-- =======================================================================
+                            Japanese Occupation
+     ======================================================================= -->
+
+<div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Japanese Colonial Era
+  </div>
+
+<div class="mediabox">
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/JPN-01.png"
+            alt="I-Witness: "The Rape of Manila", a documentary by Sandra Aguinaldo (GMA Public Affairs)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            I-Witness: "The Rape of Manila", a documentary by Sandra Aguinaldo (GMA Public Affairs)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/JPN-02.png"
+            alt="Pagsakop Ng Japan Sa Pilipinas WWII (Moobly TV)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            Pagsakop Ng Japan Sa Pilipinas WWII (Moobly TV)
+        </div>
+    </div>
+    
+    <div class="item landscape">
+        <img
+            src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/JPN-03.png"
+            alt="STATELESS: The Japanese Left Behind in the Philippines - Documentary 360 (NHK WORLD-JAPAN)"
+            class="zoom"
+        >
+        <div class="hover-text">
+            STATELESS: The Japanese Left Behind in the Philippines - Documentary 360 (NHK WORLD-JAPAN)
+        </div>
+    </div>
+
+</div>
