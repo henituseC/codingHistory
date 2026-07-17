@@ -95,7 +95,11 @@
       </div>
       
       <p style="margin: 10px 0; line-height: 1.5;">
-        
+        Hello everyone, I'm Zedrik Pamintuan and I'm handling Pre-Colonization, exploring the days of Datus, ancient trade, and writing in Baybayin. Let me know if we need to add anything else to the slides. Pretty sure our presentation is due... wait, is it actually tomorrow?
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Man, I completely lost track of time doing this research. Either way, hopefully this intro works and we get an A!
       </p>
     
     </div>
@@ -118,21 +122,6 @@
       </p>
     
     </div>
-  
-  
- 
-  
-  
+   
   </div>
-
-
 </div>
-
- 
-
-
-
-
-
-
-
