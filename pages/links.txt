@@ -1,0 +1,240 @@
+<!-- =======================================================================
+                          LITERATURE CITATIONS
+     ======================================================================= -->
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] LINKS AND OTHER RESOURCES
+    </div>
+    
+    <p style="margin: 5px 0; line-height: 1.5;">
+      <ul>
+        <li> <a href="https://docs.google.com/document/d/1tAUu5EVRKPjY2Og5XQRhacd_ylCo_E15fCa84ZBS478/edit?usp=sharing" target="_blank" class="c-cmd"; text-decoration: underline;">Project Documentation</a> (Google Docs) </li>
+        <li> <a href="https://github.com/henituseC/codingHistory" target="_blank" class="c-cmd"; text-decoration: underline;">Public GitHub Repository</a> </li>
+        <li>Other Educational Websites
+          <ul>
+            <li> <a href="https://www.philippine-history.org" target="_blank" class="c-cmd"; text-decoration: underline;">Philippine History</a> </li>
+            <li> <a href="https://memory.nhcp.gov.ph" target="_blank" class="c-cmd"; text-decoration: underline;">National Memory Project</a> </li>
+            <li> <a href="https://web.nlp.gov.ph" target="_blank" class="c-cmd"; text-decoration: underline;">National Library of the Philippines</a> </li>
+          </ul>
+        </li>
+      </ul>     
+    </p>
+
+</div>
+
+
+<!-- =======================================================================
+                          LITERATURE CITATIONS
+     ======================================================================= -->
+ 
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] LITERATURE SECTION CITATIONS
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+      <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Spanish Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+      <ul>
+        <li>Rizal, J. (1887). Noli Me Tángere. Berliner Buchdruckerei-Aktiengesellschaft.</li>
+        <li>Rizal, J. (1891). El Filibusterismo. F. Meyer van Loo Press.</li>
+        <li>Coates, A. (1992). Rizal: Filipino Nationalist and Patriot. Solidaridad Publishing House.</li>
+        <li>Schumacher, J. (1973). The Propaganda Movement, 1880-1895. Solidaridad Publishing House.</li>
+        <li>Morga, A. (1609). Sucesos de las Islas Filipinas. Casa de Geronymo Balli.</li>
+        <li>Agoncillo, T. (1956). The Revolt of the Masses. University of the Philippines.</li>
+      </ul>     
+    </p>
+      
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] American Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>Blount, J. (1912). The American Occupation of the Philippines, 1898-1912. G. P. Putnam's Sons.</li>
+          <li>Laya, J. (1941). His Native Soil. University Publishing Co., Inc.</li>
+          <li>Phillips, C. (1947). Manila Espionage. Binfords & Mort.</li>
+        </ul>     
+      </p>
+    
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Japanese Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>Setsuho, I. & Josa, R. (1999). The Philippines Under Japan: Occupation Policy and Reaction. Ateneo de Manila University Press.</li>
+          <li>Schueller, M. (2019). Campaigns of Knowledge: U.S. Pedagogies of Colonialism and Occupation in the Philippines and Japan. Temple University Press.</li>
+          <li>Morningstar, J. (2021). War and Resistance in the Philippines, 1942-1944. Naval Institute Press.</li>
+        </ul>     
+      </p>
+    
+    </div>
+    
+  </div>
+</div>
+
+
+
+
+<!-- =======================================================================
+                          MOVIE CITATIONS
+     ======================================================================= -->
+ 
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] MOVIE SECTION CITATIONS
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+      <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Spanish Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+      <ul>
+        <li>Diokno, P. (Director). (2023). GomBurZa [Film]. Jesuit Communications; MQuest Ventures; CMB Film Services.</li>
+        <li>Diaz-Abaya, M. (Director). (1998). José Rizal [Film]. GMA Films.</li>
+        <li>Williams, E. (Director). (2014). Bonifacio: Ang Unang Pangulo [Film]. Philippians Productions; Tuko Film Productions; Buchi Boy Productions; RCP Productions.</li>
+        <li>Portes, G. (Director). (2016). Ang Hapis at Himagsik ni Hermano Puli [Film]. T-Rex Entertainment.</li>
+        <li>Calvo, S. (Director). (2016). 1898, Our Last Men in the Philippines [Film]. 13 TV; CIPI Cinematografica S.A.; Instituto de la Cinematografía y de las Artes Audiovisuales; Televisión Española.</li>
+      </ul>     
+    </p>
+      
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] American Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>Tarog, J. (Director). (2015). Heneral Luna [Film]. Artikulo Uno Productions.</li>
+          <li>Tarog, J. (Director). (2018). Goyo: Ang Batang Heneral [Film]. TBA Studios.</li>
+          <li>Sayles, J. (Director). (2010). Amigo [Film]. Anarchist's Convention Inc.</li>
+          <li>Romero, Eddie. (Director). (1976). Ganito Kami Noon... Paano Kayo Ngayon? [Film]. Hemisphere Pictures.</li>
+          <li>Lang, F. (Director). (1950). American Guerrilla in the Philippines [Film]. 20th Century Fox.</li>
+          <li>Dahl, J. (Director). (2005). The Great Raid [Film]. Miramax Films; Marty Katz Productions; Lawrence Bender Productions.</li>
+        </ul>     
+      </p>
+    
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Japanese Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>Gallaga, P. (Director). (1982). Oro, Plata, Mata [Film]. Experimental Cinema of the Philippines.</li>
+          <li>O'Hara, M. (Director). (1976). Tatlong Taong Walang Diyos [Film]. NV Productions.</li>
+          <li>Portes, Gil. (Director). (2000). Markova: Comfort Gay [Film]. RVQ Productions.</li>
+          <li>Lamangan, J. (Director). (2004). Aishite Imasu 1941: Mahal Kita [Film]. Regal Films; BAS Films.</li>          
+        </ul>     
+      </p>
+    
+    </div>
+    
+  </div>
+</div>
+
+
+
+
+
+<!-- =======================================================================
+                          VIDEO CITATIONS
+     ======================================================================= -->
+ 
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] VIDEO SECTION CITATIONS
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+      <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Spanish Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+      <ul>
+        <li>nqc2021. (2021, Nov 27). Kaagi: The Philippines and the First Circumnavigation [Video]. YouTube. https://www.youtube.com/watch?v=U8GfxUqWDZM.</li>
+        <li>Knowledgia. (2025, April 14). The History of The Philippines Under The Spanish Empire [Video]. YouTube. https://www.youtube.com/watch?v=3HlI4E3faXM.</li>
+        <li>The Forgotten Empire. (2025, December 28). 1565–1898: How Spain Controlled the Philippines for 333 Years [Video]. YouTube. https://www.youtube.com/watch?v=P1aDfp4GrFA.</li>
+        <li>National Historical Commission of the Philippines. (2023, March 31). GOMBURZA (An NHCP Documentary) [Video]. YouTube. https://www.youtube.com/watch?v=iUlf9KtbqC8.</li>
+      </ul>     
+    </p>
+      
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] American Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>Mr. Beat. (2023, May 6). The War Your American History Teachers Probably Didn't Tell You About [Video]. YouTube. https://www.youtube.com/watch?v=SbH8D381J-I.</li>
+          <li>One Down. (2025, November 19). How America Rigged Filipino Education [Video]. YouTube. https://www.youtube.com/watch?v=UW99-zsQszE.</li>
+          <li>Johnny Harris. (2021, August 18). How The US Stole The Philippines [Video]. YouTube. https://www.youtube.com/watch?v=7fcqhU-23TA.</li>
+        </ul>     
+      </p>
+    
+    </div>
+    
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] Japanese Colonial Era
+      </div>
+      
+      <p style="margin: 5px 0; line-height: 1.5;">
+        <ul>
+          <li>GMA Public Affairs. (2014, April 6). I-Witness: "The Rape of Manila", a documentary by Sandra Aguinaldo [Video]. YouTube. https://www.youtube.com/watch?v=Il5Bk6vcsmw.</li>
+          <li>Moobly TV. (2023, August 20). Pagsakop Ng Japan Sa Pilipinas WWII (1941–1945) | Wars in the Philippines [Video]. YouTube. https://www.youtube.com/watch?v=ovG6eAXIQBY.</li>
+          <li>NHK WORLD-JAPAN. (2025, October 25). STATELESS: The Japanese Left Behind in the Philippines - Documentary 360 [Video]. YouTube. https://www.youtube.com/watch?v=uG4JJU5UdGk.</li>
+        </ul>     
+      </p>
+    
+    </div>
+    
+  </div>
+</div>
