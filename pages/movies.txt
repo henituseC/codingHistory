@@ -91,11 +91,11 @@
     <div class="item portrait">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-02-Goyo.jpg"
-            alt="Goyo: Ang Unang Heneral (2018)"
+            alt="Goyo: Ang Batang Heneral (2018)"
             class="zoom"
         >
         <div class="hover-text">
-            Goyo: Ang Unang Heneral (2018)
+            Goyo: Ang Batang Heneral (2018)
         </div>
     </div>
     
@@ -113,11 +113,11 @@
     <div class="item portrait">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/AM-04-Ganito.jpg"
-            alt="Ganito Kami Noon, Paano Kayo Ngayon? (1976)"
+            alt="Ganito Kami Noon... Paano Kayo Ngayon? (1976)"
             class="zoom"
         >
         <div class="hover-text">
-            Ganito Kami Noon, Paano Kayo Ngayon? (1976)
+            Ganito Kami Noon... Paano Kayo Ngayon? (1976)
         </div>
     </div>
     
