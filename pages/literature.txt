@@ -33,11 +33,11 @@
     <div class="item portrait">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/SPN-03-RizaLife.jpg"
-            alt="Buhay at mga Sinulat ni Dr. José Rizal (Austin Coates)"
+            alt="Rizal: Filipino Nationalist and Patriot (Austin Coates)"
             class="zoom"
         >
         <div class="hover-text">
-            Buhay at mga Sinulat ni Dr. José Rizal (Austin Coates)
+            Rizal: Filipino Nationalist and Patriot (Austin Coates)
         </div>
     </div>
     
@@ -113,11 +113,11 @@
     <div class="item portrait">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/AM-03-ManilaEspionage.jpg"
-            alt="The Manila Espionage (Claire Phillips)"
+            alt="Manila Espionage (Claire Phillips)"
             class="zoom"
         >
         <div class="hover-text">
-            The Manila Espionage (Claire Phillips)
+            Manila Espionage (Claire Phillips)
         </div>
     </div>
 
@@ -138,11 +138,11 @@
     <div class="item portrait">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/01_literature/JPN-01-PolicyAndReaction.jpg"
-            alt="The Philippines under Japan: Occupation Policy and Reaction (E. Bruce Reynolds)"
+            alt="The Philippines under Japan: Occupation Policy and Reaction (Setsuho, I. & Josa, R)"
             class="zoom"
         >
         <div class="hover-text">
-            The Philippines under Japan: Occupation Policy and Reaction (E. Bruce Reynolds)
+            The Philippines under Japan: Occupation Policy and Reaction (Setsuho, I. & Josa, R)
         </div>
     </div>
     
