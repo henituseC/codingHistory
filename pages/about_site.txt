@@ -50,7 +50,11 @@
       </div>
       
       <p style="margin: 10px 0; line-height: 1.5;">
-        Hi! I'm Amelia Ampil. I am the leader and main coder of CODING HISTORY. I enjoy making art, model building, reading, and more. Thanks for stopping by! I hope you enjoy looking around.
+        Hi! I'm Amelia Ampil. I am the leader and main coder of CODING HISTORY. I enjoy making art, model building, reading, and more.
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Thanks for stopping by! I hope you enjoy looking around.
       </p>
       
       <p style="margin: 10px 0; line-height: 1.5;">
@@ -58,7 +62,6 @@
         &nbsp;(._.) <br>
              c(___) <br><br> 
             
-        (<a href="https://asciiart.website/art/6300" target="_blank" class="c-cmd"; text-decoration: underline;">Credit for the bunny ASCII art here!</a>)
       </p>
       
     </div>
@@ -73,7 +76,11 @@
       </div>
       
       <p style="margin: 10px 0; line-height: 1.5;">
-        
+        Hello ladies and lads, I'm Regie Contreras and I'm the research for the Spanish era and post colonial. Yep that's me...
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Do I need to say anything else or is this all good? Oh, it's still recording...  You can just cut this part out right?
       </p>
     
     </div>
