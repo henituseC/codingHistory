@@ -11,44 +11,44 @@
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-01.png"
-            alt="Kaagi: The Philippines and the First Circumnavigation (2021)"
+            alt="Kaagi: The Philippines and the First Circumnavigation (nqc2021)"
             class="zoom"
         >
         <div class="hover-text">
-            Kaagi: The Philippines and the First Circumnavigation (2021)
+            Kaagi: The Philippines and the First Circumnavigation (nqc2021)
         </div>
     </div>    
     
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-02.png"
-            alt="The History of The Philippines Under The Spanish Empire (2024)"
+            alt="The History of The Philippines Under The Spanish Empire (Knowledgia)"
             class="zoom"
         >
         <div class="hover-text">
-            The History of The Philippines Under The Spanish Empire (2024)
+            The History of The Philippines Under The Spanish Empire (Knowledgia)
         </div>
     </div>
     
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-03.png"
-            alt="1565–1898: How Spain Controlled the Philippines for 333 Years (2025)"
+            alt="1565–1898: How Spain Controlled the Philippines for 333 Years (The Forgotten Empire)"
             class="zoom"
         >
         <div class="hover-text">
-            1565–1898: How Spain Controlled the Philippines for 333 Years (2025)
+            1565–1898: How Spain Controlled the Philippines for 333 Years (The Forgotten Empire)
         </div>
     </div>
     
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/SPN-04.png"
-            alt="GOMBURZA (2023)"
+            alt="GOMBURZA (National Historical Commission of the Philippines)"
             class="zoom"
         >
         <div class="hover-text">
-            GOMBURZA (2023)
+            GOMBURZA (National Historical Commission of the Philippines)
         </div>
     </div>
 
@@ -69,33 +69,33 @@
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-01.png"
-            alt="The War Your American History Teachers Probably Didn't Tell You About (2023)"
+            alt="The War Your American History Teachers Probably Didn't Tell You About (Mr. Beat)"
             class="zoom"
         >
         <div class="hover-text">
-            The War Your American History Teachers Probably Didn't Tell You About (2023)
+            The War Your American History Teachers Probably Didn't Tell You About (Mr. Beat)
         </div>
     </div>
     
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-02.png"
-            alt="How America Rigged Filipino Education (2025)"
+            alt="How America Rigged Filipino Education (One Down)"
             class="zoom"
         >
         <div class="hover-text">
-            How America Rigged Filipino Education (2025)
+            How America Rigged Filipino Education (One Down)
         </div>
     </div>
     
     <div class="item landscape">
         <img
             src="https://file.garden/aL3VaAMTIgrFH4jX/codingHistory/02_videos/AM-03.png"
-            alt="How The US Stole The Philippines (2021)"
+            alt="How The US Stole The Philippines (Johnny Harris)"
             class="zoom"
         >
         <div class="hover-text">
-            How The US Stole The Philippines (2021)
+            How The US Stole The Philippines (Johnny Harris)
         </div>
     </div>
     
