@@ -1,0 +1,152 @@
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] PRE-COLONIZATION OF THE PHILIPPINES
+    </div>
+    
+    <!-- =======================================================================
+                                    OVERVIEW
+     ======================================================================= -->    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        <span class="c-cmd">OVERVIEW.</span>
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        Before the arrival of Spanish colonizers, the Philippine archipelago was not a single unified nation, but rather a vibrant, highly organized network of self-governing polities. These included localized <span class="c-cmd">barangays</span>, centralized <span class="c-cmd">lakanates</span>, thriving <span class="c-cmd">rajahnates</span>, and <span class="c-cmd">powerful sultanates</span>.
+    </p>
+    <p style="margin: 10px 0; line-height: 1.5;">
+        Far from being isolated, pre-colonial Filipinos were active maritime traders, maintaining deep economic and cultural relations with China, Japan, India, and neighboring Southeast Asian empires like the Majapahit and Srivijaya. Society was highly structured, boasting its own legal codes, rich oral literature, animistic religious beliefs guided by spiritual leaders known as Babaylans, and indigenous writing systems like <span class="c-cmd">Baybayin</span>.
+    </p>
+    
+</div>
+  
+
+
+
+
+<!-- =======================================================================
+                                TIMELINE V2
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] TIMELINE
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] c. 900 AD — The Laguna Copperplate Inscription
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The earliest known written document found in the Philippines. Written in Kawi script, this legal document acquits a man named Namwaran of a gold debt, proving the existence of a sophisticated, literate society with formal laws and currency.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] c. 1200s — Rise of Maritime Trade and Polities
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Polities like the Lakanate of Tondo and the Rajahnate of Cebu emerge as powerful trading hubs, dominating local trade routes and acting as intermediaries for foreign merchants from the Song Dynasty and native kingdoms.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1380 — Arrival of Islam in the South
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Arab missionary Karim ul-Makhdum arrives in Sulu, introducing Islam to the southern archipelago and building the country's first mosque in Tubig Indangan, Simunul.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1450 — Establishment of the Sultanate of Sulu
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Sharif ul-Hāshim founds the Sultanate of Sulu, introducing a centralized political and religious system based on Islamic law (Sharia), which dramatically expanded the region's geopolitical influence.
+      </p>
+ 
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] c. 1500 — Brunei Influence and the Expansion of Manila
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The Sultanate of Brunei exerts influence over Luzon, establishing a fortified outpost in Manila (Seludong) ruled by Muslim rajahs, cementing Islam’s reach up to the northern islands just decades before Spanish arrival.
+      </p>
+ 
+    </div>
+  
+  </div>
+</div>
+
+
+
+
+<!-- =======================================================================
+                                Key Figures
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] KEY FIGURES
+  </div>
+  
+  
+
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Lapulapu
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      The Datu of Mactan who famously defeated Portuguese explorer Ferdinand Magellan at the Battle of Mactan in 1521. He stands as a premier symbol of pre-colonial resistance to foreign subjugation.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Rajah Sulayman (Sulayman III)
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      One of the few recorded female monarchs in pre-colonial Philippine history. She ruled the Lakanate of Tondo and Namayan in the late 15th to early 16th century, representing the high social and political status women held in pre-colonial society.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Sultan Sharif ul-Hāshim
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      An Arab-Malay explorer who became the first Sultan of Sulu. He claimed descent from the prophet Muhammad and successfully unified the diverse native factions of Sulu under one Islamic state.
+    </p>
+          
+  </div>
+    
+</div>
