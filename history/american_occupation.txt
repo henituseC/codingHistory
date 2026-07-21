@@ -1,0 +1,152 @@
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] AMERICAN OCCUPATION OF THE PHILIPPINES
+    </div>
+    
+    <!-- =======================================================================
+                                    OVERVIEW
+     ======================================================================= -->    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        <span class="c-cmd">OVERVIEW.</span>.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        The Treaty of Paris marked the beginning of the American Occupation as far back as December 1898 at the end of the Spanish-American War in which Spain sold The Philippines to the United States of America for a total 20 million US Dollars (804,703,614 Million in today's USD). 
+    </p>
+    <p style="margin: 10px 0; line-height: 1.5;">
+        It would not be very long before conflict began again, as in February of 1899, Emilio Aguinaldo would declare war against U.S forces and would continue fighting until the war ended in 1902, where The Philippines would remain in occupation until 1941-1945 during the Japanese Occupational Era, before being liberated in September 2, 1945 by the United States and given independence in 1946.
+    </p>
+    
+</div>
+  
+
+
+
+
+<!-- =======================================================================
+                                TIMELINE V2
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] TIMELINE
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] December 10, 1898 - Treaty of Paris
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The treaty marking the formal ending of the Spanish-American war in a defeat for Spain. Spain would be forced to cede The Philippines and pay 20 million dollars in compensation.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] February 4, 1899 - Battle of Manila
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The beginning of the Philippine-American War after Emilio Aguinaldo attempted a ceasefire, of which General Otis rejected, stating "The fighting, having begun, must go on to the grim end."
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] June 5, 1899 - Death of Heneral Antonio Luna
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        On June 2 1899, General Luna received multiple telegrams summoning him to Cabanatuan. He arrived on June 5, to then which he was assassinated by the members of the reinstated Kawit guard. His Colonel, Franciso RomÃ¡n, was also killed.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] July 4, 1902 - End of the Philippine-American War
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        After the capture of President Emilio Aguinaldo in 1901, resistance began to dwindle until July 4th, where American President Theodore Roosevelt declared the war over. Though Guerilla fighting would continue until April 16th.
+      </p>
+ 
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] July 4, 1946 - Independence
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The US officially recognizes Philippine Sovereignty and grants the nation independence, however modern Philippine independence day recognizes independence on June 12th to commemorate independence from the Spanish.
+      </p>
+ 
+    </div>
+  
+  </div>
+</div>
+
+
+
+
+<!-- =======================================================================
+                                Key Figures
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] KEY FIGURES
+  </div>
+  
+  
+
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Emilio Aguinaldo
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Philippine President from June 23, 1898 to January 23, 1899. Allegedly ordered the assassination of Heneral Antonio Luna.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Apolinario Mabini
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Prime Minister of the Philippines and advisor of Emilio Aguinaldo.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Gregorio Del Pilar
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      General under Emilio Aguinaldo who fought in the Philippine Revolution against Spain and writer of La Solidaridad, lost his life at the Battle of Tirad Pass.
+    </p>
+          
+  </div>
+    
+</div>
