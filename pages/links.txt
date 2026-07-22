@@ -1,5 +1,5 @@
 <!-- =======================================================================
-                          LITERATURE CITATIONS
+                          LINKS AND OTHER RESOURCES
      ======================================================================= -->
 <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
     
@@ -11,6 +11,7 @@
       <ul>
         <li> <a href="https://docs.google.com/document/d/1tAUu5EVRKPjY2Og5XQRhacd_ylCo_E15fCa84ZBS478/edit?usp=sharing" target="_blank" class="c-cmd"; text-decoration: underline;">Project Documentation</a> (Google Docs) </li>
         <li> <a href="https://github.com/henituseC/codingHistory" target="_blank" class="c-cmd"; text-decoration: underline;">Public GitHub Repository</a> </li>
+        <li> <a href="https://docs.google.com/document/d/1NSzJVRL5YDZySqGuQxAk2FU_-o3vzr7qNWuMc7kN710/view" target="_blank" class="c-cmd"; text-decoration: underline;">All Links & Sources</a> </li>
         <li>Other Educational Websites
           <ul>
             <li> <a href="https://www.philippine-history.org" target="_blank" class="c-cmd"; text-decoration: underline;">Philippine History</a> </li>
