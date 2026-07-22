@@ -118,6 +118,10 @@
       </p>
       
       <p style="margin: 10px 0; line-height: 1.5;">
+        I highly recommend reading some of the sources I've had listed in the American and Japanese eras, you might find something enlightening.
+      </p>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
         Literacy upon ye.
       </p>
     
