@@ -1,0 +1,137 @@
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] SPANISH OCCUPATION OF THE PHILIPPINES
+    </div>
+    
+    <!-- =======================================================================
+                                    OVERVIEW
+     ======================================================================= -->    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        <span class="c-cmd">OVERVIEW.</span>.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        From 1565 to 1898, Spain ruled the Philippines, introducing Christianity, centralized government, and Western education. The era saw both cultural transformation and resistance, culminating in the Philippine Revolution.
+    </p>
+    
+</div>
+  
+
+
+
+
+<!-- =======================================================================
+                                TIMELINE V2
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] TIMELINE
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1565 
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Arrival of Miguel López de Legazpi; establishment of the first Spanish settlement in Cebu..
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1571 
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Founding of Manila as the capital; became the center of trade and governance.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1762–1764
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        British occupation of Manila during the Seven Years’ War; brief disruption of Spanish control.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] 1896–1898
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Philippine Revolution led by the Katipunan; end of Spanish rule after the Treaty of Paris.
+      </p>
+ 
+    </div>
+  
+  </div>
+</div>
+
+
+
+
+<!-- =======================================================================
+                                Key Figures
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] KEY FIGURES
+  </div>
+  
+  
+
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Miguel Lopez de Legazpi
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      First Spanish governor-general; established colonial rule.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Jose Rizal 
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      National hero; his writings inspired revolutionary movements.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Andres Bonifacio 
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Founder of the Katipunan; led the armed struggle for independence.
+    </p>
+          
+  </div>
+    
+</div>
