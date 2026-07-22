@@ -381,3 +381,29 @@ body {
 .item:hover .hover-text {
     opacity: 1;
 }
+
+
+@media (max-width: 768px) {
+    /* Changes the layout from side-by-side columns to a single vertical column */
+    .container {
+        grid-template-columns: 1fr; 
+        gap: 10px;
+        height: auto; /* Allows the page to expand vertically naturally */
+    }
+
+    body {
+        height: auto;
+        padding: 15px;
+    }
+
+    /* Adds a little breathing room beneath the sidebar on mobile views */
+    .sidebar {
+        padding: 0;
+        overflow-y: visible; /* Prevents nested scrolling panels on mobile */
+    }
+
+    .console-panel {
+        padding: 0;
+        overflow-y: visible;
+    }
+}
