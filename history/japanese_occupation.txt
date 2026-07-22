@@ -1,0 +1,155 @@
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+    
+    <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] JAPANESE OCCUPATION OF THE PHILIPPINES
+    </div>
+    
+    <!-- =======================================================================
+                                    OVERVIEW
+     ======================================================================= -->    
+    <p style="margin: 10px 0; line-height: 1.5;">
+        <span class="c-cmd">OVERVIEW.</span>.
+    </p>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      On December 7th 1941, Pearl Harbor was attacked by the Japanese in an ambush to cripple American naval power before the campaign ahead of the Japanese. The very next day, December 8th 1941, the Philippines was invaded by Japanese forces before completely falling under Japanese rule in May 6th, 1942.
+    </p>
+    <p style="margin: 10px 0; line-height: 1.5;">
+      The ensuing 3 years Japanese occupation can only be described as cartoonishly evil, as like with all of the nations Japan occupied, the Japanese proceeded to commit extreme atrocities the likes of which not even performed by the Spanish or Americans during their much longer occupations.
+    </p>
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Thankfully, on September 2, 1945, with the aid of the Americans the archipelago was fully liberated from Japanese control.
+    </p>
+    
+</div>
+  
+
+
+
+
+<!-- =======================================================================
+                                TIMELINE V2
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] TIMELINE
+  </div>
+  
+  <div style="display: flex; gap: 20px;">
+  
+  
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] December 8, 1941 - Day of Infamy
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        Japanese forces invade the island of Luzon in a combined arms offensive, capitalizing on the temporary crippling of the American Fleet to hastily take the Archipelago.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] April 10, 1942 - Bataan Death March
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        75,000 U.S and Filipino soldiers were forced to surrender on April 9th due to lack of relief, supply, disease, and exposure to the elements. The already tired soldiers were then taken by the Japanese and forced to march 65 miles, or 265 kilometers to POW camps across the nation without proper food, water, or medical attention. 10,000 men lost their lives.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] October 20, 1944 - MacArthur's Return
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        General Douglas MacArthur vowed to The Philippines "I shall return" on March 20th 1942 after he was ordered to evacuate the falling Archipelago. Two years later, American forces landed in Luzon alongside General Douglas MacArthur in Luzon as he fulfilled his promise.
+      </p>
+            
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] February 3 -> March 3, 1945 - Battle of Manila
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The most devastating battle of the Pacific Theater. 100,000 Filipino citizens were killed and massacred in gruesome ways which included the rape and murder of Filipina women, and the barbaric murder of countless children. Manila was the second most devastated city in World War 2, only behind the Polish capital Warsaw.
+      </p>
+ 
+    </div>
+    
+    <div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 50%;">
+  
+      <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+          [ ■ ] September 2, 1945 - Liberation
+      </div>
+      
+      <p style="margin: 10px 0; line-height: 1.5;">
+        The Philippines is officially liberated from Japanese occupation, placing the Philippines back under American control until the country had their independence recognized in July 4, 1946.
+      </p>
+ 
+    </div>
+  
+  </div>
+</div>
+
+
+
+
+<!-- =======================================================================
+                                Key Figures
+      ======================================================================= -->  
+<div style="border: 1px solid #00ff00; padding: 15px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); margin-bottom: 20px;">
+  
+  <div class="c-desc" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+    [ ■ ] KEY FIGURES
+  </div>
+  
+  
+
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Manuel L. Quezon
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Philippine President from 1941 to 1944 on their second term. Fled the Philippines to lead the country's government in exile in the United States and declared Manila an open city in 1942 as to prevent the city's total destruction.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] Jose P. Laurel
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Acting President from 1943 to 1945 under Japanese occupation. Faced with the difficulty task of supporting the Japanese War Effort and taking care of Filipino citizens. Attempts were made to weaken the Japanese war effort from his position in office, like denying a Japanese request to incorporate Filipino conscription to the Japanese army.
+    </p>
+          
+  </div>
+  
+  <div style="border: 1px solid #00ff00; padding: 15px; margin-bottom: 10px; background: rgba(0, 255, 0, 0.02); box-shadow: inset 0 0 5px rgba(0, 255, 0, 0.1); width: 100%;">
+
+    <div class="c-cmd" style="border-bottom: 1px dashed #00ff00; padding-bottom: 5px; margin-bottom: 10px; font-weight: bold;">
+        [ ■ ] General Douglas MacArthur
+    </div>
+    
+    <p style="margin: 10px 0; line-height: 1.5;">
+      Commanded the American forces during the Philippine campaign, famously vowed to return after evacuating the islands, and landed on Leyte to fulfill his promise.
+    </p>
+          
+  </div>
+    
+</div>
